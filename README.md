@@ -3,7 +3,7 @@ Machine learning-based prediction model for Mouse Liver Microsomal (MLM) stabili
 
 ## Introduction: ## 
 
-Welcome to our repository, here we provide machine learning model to efficiently predict the Mouse Liver Microsomal (MLM) stability of target drug compounds in early stage of drug discovery process.
+Welcome to our repository, here we provide machine learning model to efficiently predict the Mouse Liver Microsomal (MLM) stability of target drug compounds in early stage of drug discovery process
 
 ## Dependencies ##
 
@@ -36,4 +36,4 @@ Note: For the validation step, prepare a .csv file containing SMILES with biocla
 Our model generates output in binary value (1 or 0), where 1 indicates compound to be stable, while 0 indicates unstable
 
  
-**Please make sure to keep all the required files (MCLint.pkl, data_preprocessing.py, scaler, featuers.txt, input_file.csv, model.py)in the working directory**
+**Please ensure that all the necessary files (MCLint.pkl, data_preprocessing.py, scaler, features.txt, input_file.csv, model.py) are kept in the working directory**
